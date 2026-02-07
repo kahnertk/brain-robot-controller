@@ -1,0 +1,18 @@
+# Brain Robot Controller - Requirements
+
+# Core dependencies
+# No external dependencies for basic functionality
+# The core modules are standalone
+
+# Optional dependencies for enhanced functionality
+# numpy>=1.21.0  # For signal processing
+# scipy>=1.7.0  # For advanced signal analysis
+# scikit-learn>=0.24.0  # For ML-based command classification
+# pyserial>=3.5  # For serial communication with physical robots
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=3.0.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
